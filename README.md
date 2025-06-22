@@ -6,7 +6,7 @@
 
 This project is an implementation of the analysis and modeling pipeline for the competitive data science project conducted as part of the **FIND IT 2025** competition, specifically titled **"Data Analytics Competition FIND IT 2025"**
 
-Forecasting temperature rise using machine learning classification models. This project aims to develop a machine learning model that predicts whether a mobile application is at risk of violating the Children’s Online Privacy Protection Act (COPPA). The model helps identify potentially non-compliant apps by analyzing various app-level features.
+This project aims to develop a machine learning model that predicts whether a mobile application is at risk of violating the Children’s Online Privacy Protection Act (COPPA). The model helps identify potentially non-compliant apps by analyzing various app-level features.
 
 ## Business Understanding
 
