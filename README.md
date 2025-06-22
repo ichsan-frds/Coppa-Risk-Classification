@@ -1,4 +1,4 @@
-# Coppa Risk Prediction
+# Coppa Risk Classification
 🏆**PROJECT ACHIEVEMENTS**🏆
 - Top 10 Public Score Leaderboard Data Analytics FIND IT 2025
 
@@ -31,7 +31,7 @@ AUC (Area Under the ROC Curve)
 ```
 pip install -r requirements.txt
 ```
-2. Run Prediction.ipynb
+2. Run Classification.ipynb
 
 ### Jupyter Notebook
-1. Launch Prediction.ipynb
+1. Launch Classification.ipynb
