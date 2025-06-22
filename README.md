@@ -1,6 +1,6 @@
 # Coppa Risk Prediction
 🏆**PROJECT ACHIEVEMENTS**🏆
-- Top 10 Public Score Data Analytics FIND IT 2025
+- Top 10 Public Score Leaderboard Data Analytics FIND IT 2025
 
 ![CoppaRiskPredictionImage](https://github.com/user-attachments/assets/57925cf2-8967-4def-928d-9f19292c2d2d)
 
