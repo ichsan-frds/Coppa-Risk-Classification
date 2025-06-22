@@ -1,12 +1,12 @@
-# Coppa Risk Prediction
+# Coppa Risk Classification
 🏆**PROJECT ACHIEVEMENTS**🏆
-- Top 10 Public Score Data Analytics FIND IT 2025
+- Top 10 Public Score Leaderboard Data Analytics FIND IT 2025
 
 ![CoppaRiskPredictionImage](https://github.com/user-attachments/assets/57925cf2-8967-4def-928d-9f19292c2d2d)
 
 This project is an implementation of the analysis and modeling pipeline for the competitive data science project conducted as part of the **FIND IT 2025** competition, specifically titled **"Data Analytics Competition FIND IT 2025"**
 
-Forecasting temperature rise using machine learning classification models. This project aims to develop a machine learning model that predicts whether a mobile application is at risk of violating the Children’s Online Privacy Protection Act (COPPA). The model helps identify potentially non-compliant apps by analyzing various app-level features.
+It aims to develop a machine learning model that predicts whether a mobile application is at risk of violating the Children’s Online Privacy Protection Act (COPPA). The model helps identify potentially non-compliant apps by analyzing various app-level features.
 
 ## Business Understanding
 
@@ -31,7 +31,7 @@ AUC (Area Under the ROC Curve)
 ```
 pip install -r requirements.txt
 ```
-2. Run Prediction.ipynb
+2. Run Classification.ipynb
 
 ### Jupyter Notebook
-1. Launch Prediction.ipynb
+1. Launch Classification.ipynb
